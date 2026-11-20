@@ -2,7 +2,7 @@ from sklearn.neighbors import KNeighborsClassifier
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as pltx
+import matplotlib.pyplot as plt
 
 st.header("โปรเจคการจำแนกข้อมูลดอกไม้")
 #st.image("./img/kairung022.jpg")
